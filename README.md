@@ -12,8 +12,9 @@
 
 ### About me
 
-- 🌱 Learning `Flutter`, `Tailwind`, `web animations`.
+- 🌱 Learning `Flutter`, `Tailwind`, `Nest JS`.
 - 💪 Passionate about `Typescript`, `React`, `Cypress`.
+- 👨‍🎓 Graduate from the ` Pontifical Catholic University of Chile`.
 - 💬 Ask me about anything ☞ [here](mailto:lechodiman@uc.cl).
 
 <div align="center">
