@@ -53,8 +53,7 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?lechodiman" frameborder="0"></iframe>
-
+[![Luis Top Langs](https://github-readme-stats-c3kzqadl4.vercel.app/api/top-langs/?username=lechodiman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Luis's github stats](https://github-readme-stats-c3kzqadl4.vercel.app/api/?username=lechodiman&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
 
 </div>
