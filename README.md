@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/luis-chodiman-herrera-b54685144/"><img height="30" src="https://raw.githubusercontent.com/lechodiman/lechodiman/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/luis-chodiman/"><img height="30" src="https://raw.githubusercontent.com/lechodiman/lechodiman/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ChodimanLuis"><img height="30" src="https://raw.githubusercontent.com/lechodiman/lechodiman/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
